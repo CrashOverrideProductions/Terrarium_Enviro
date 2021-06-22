@@ -6,7 +6,7 @@
 
 <!-- Repo Cover Image -->
 <p style="background-color:rgba(22,22,22,1.00)" align="center">
-<img align="center" src="https://raw.githubusercontent.com/CrashOverrideProductions/Terrarium_Enviro/main/HeatMats/Images/bg.png" />
+<img align="center" src="https://raw.githubusercontent.com/CrashOverrideProductions/Terrarium_Enviro/main/HeatMats/Images/bg.jpg" />
 </p>
 
 <!-- Repo Stats -->
