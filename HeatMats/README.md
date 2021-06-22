@@ -6,7 +6,7 @@
 
 <!-- Repo Cover Image -->
 <p style="background-color:rgba(22,22,22,1.00)" align="center">
-<img align="center" src="https://github.com/CrashOverrideProductions/Tools/blob/main/Bad%20USB/images/background.jpg?raw=true" />
+<img align="center" src="https://raw.githubusercontent.com/CrashOverrideProductions/Terrarium_Enviro/main/HeatMats/Images/bg.png" />
 </p>
 
 <!-- Repo Stats -->
